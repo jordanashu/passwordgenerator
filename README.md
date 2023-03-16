@@ -1,1 +1,1 @@
-# passwordgenerator
+# passwordgenerator app
